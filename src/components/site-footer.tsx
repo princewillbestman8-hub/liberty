@@ -35,8 +35,8 @@ export function SiteFooter() {
           <div>
             <p className="text-[11px] font-bold uppercase tracking-[0.2em] text-slate-500 mb-3">Contact</p>
             <ul className="space-y-2 text-sm">
-              <li>📞 508-813-1748</li>
-              <li>✉️ orders@LibertyPumpco.com</li>
+              <li>📞 (213)-662-2393</li>
+              <li>✉️ order@LibertyPumpco.com</li>
               <li className="flex items-center gap-1.5">
                 <span className="h-1.5 w-1.5 rounded-full bg-emerald-400" />
                 <span className="text-emerald-400 font-semibold">Support available</span>
