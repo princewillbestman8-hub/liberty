@@ -37,6 +37,7 @@ export function SiteFooter() {
             <ul className="space-y-2 text-sm">
               <li>📞 (213)-662-2393</li>
               <li>✉️ order@LibertyPumpco.com</li>
+              <li>📍9269 Garnett St,Suite C Arvada, CO, 80007</li>
               <li className="flex items-center gap-1.5">
                 <span className="h-1.5 w-1.5 rounded-full bg-emerald-400" />
                 <span className="text-emerald-400 font-semibold">Support available</span>
