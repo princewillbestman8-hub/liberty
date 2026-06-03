@@ -13,9 +13,9 @@ export function SupportPanel({ compact = false }: { compact?: boolean }) {
           </p>
         </div>
         <div className="grid gap-3 sm:grid-cols-3">
-          <SupportAction icon={<PhoneIcon className="h-5 w-5" />} title="Call us" detail="508-813-1748" />
+          <SupportAction icon={<PhoneIcon className="h-5 w-5" />} title="Call us" detail="(213)-662-2393" />
           <SupportAction icon={<ChatIcon className="h-5 w-5" />} title="Live chat" detail="Online now" />
-          <SupportAction icon={<MailIcon className="h-5 w-5" />} title="Email" detail="orders@libertypump.com" />
+          <SupportAction icon={<MailIcon className="h-5 w-5" />} title="Email" detail="order@libertypumpco.com" />
         </div>
       </div>
     </section>
