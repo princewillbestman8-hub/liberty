@@ -171,9 +171,9 @@ export function CartPanel() {
             Fill out the form below or reach us directly.
           </p>
           <div className="mt-4 space-y-2 text-sm">
-            <ContactLine icon={<PhoneIcon className="h-4 w-4" />} label="Call" value="508-813-1748" />
+            <ContactLine icon={<PhoneIcon className="h-4 w-4" />} label="Call" value="(213)-662-2393 />
             <ContactLine icon={<ChatIcon className="h-4 w-4" />} label="Live chat" value="Available now" />
-            <ContactLine icon={<MailIcon className="h-4 w-4" />} label="Email" value="orders@libertypump.com" />
+            <ContactLine icon={<MailIcon className="h-4 w-4" />} label="Email" value="order@libertypumpco.com" />
           </div>
         </div>
 
